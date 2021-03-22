@@ -1,0 +1,3 @@
+# Github templates
+
+This repository contains templates and cross-cutting settings of m-m-m organisation on github.

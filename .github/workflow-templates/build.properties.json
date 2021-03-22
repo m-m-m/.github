@@ -1,0 +1,6 @@
+{
+  "name": "CI build workflow",
+  "description": "Template of CI build workflow for m-m-m organization.",
+  "iconName": "maven",
+  "categories": [ "Java", "Maven" ],
+}
