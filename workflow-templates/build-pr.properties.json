@@ -1,0 +1,6 @@
+{
+  "name": "PR build workflow",
+  "description": "Template of PR build workflow for m-m-m organization.",
+  "iconName": "maven",
+  "categories": [ "Java", "Maven" ]
+}
